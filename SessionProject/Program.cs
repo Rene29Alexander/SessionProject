@@ -73,9 +73,9 @@ namespace SessionProject
                     case "a":
                         Console.WriteLine("NOMBRE DE ARCHIVOS .txt");
                         Console.WriteLine("ReneAlexanderAraujoSotoSMIS060720.txt");
-                        Console.WriteLine("JonathanEliaGamezLarinSMIS017821,txt");
-                        Console.WriteLine("PlacidoIsmaelLunaArguetaSMIS071121");
-                        Console.WriteLine("AlexisManuelCalixMagañaSMIS021821");
+                        Console.WriteLine("JonathanEliaGamezLarinSMIS017821.txt");
+                        Console.WriteLine("PlacidoIsmaelLunaArguetaSMIS071121.txt");
+                        Console.WriteLine("AlexisManuelCalixMagañaSMIS021821.txt");
                         Console.WriteLine("Introduce el nombre del archivo que quiereas leer incluyendo el txt al final.");
                         Console.WriteLine("Nombre del archivo: ");
                         fileName = Console.ReadLine();
