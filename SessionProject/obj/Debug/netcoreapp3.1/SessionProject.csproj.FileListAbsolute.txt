@@ -1,0 +1,27 @@
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.exe
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.deps.json
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.runtimeconfig.json
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.runtimeconfig.dev.json
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.dll
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.pdb
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.AssemblyInfoInputs.cache
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.AssemblyInfo.cs
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.dll
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.pdb
+C:\Users\wilbe\source\repos\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.exe
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.deps.json
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.runtimeconfig.json
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.runtimeconfig.dev.json
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\bin\Debug\netcoreapp3.1\SessionProject.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.dll
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.pdb
+C:\Users\HP\Desktop\U\programacion computacional 1\SessionProject\SessionProject\obj\Debug\netcoreapp3.1\SessionProject.genruntimeconfig.cache
