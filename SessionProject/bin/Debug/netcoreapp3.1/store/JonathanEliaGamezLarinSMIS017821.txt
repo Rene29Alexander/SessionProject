@@ -1,0 +1,18 @@
+
+APRENDIZAJE:
+
+Mi aprendizaje durante el computo ha sido todo el entorno con las diferentes herramientas que posee el programa de visual estudio
+aprendimos la estructuracion de los programas con sus espacios de nombres, los tipos, miembros y los ensamblajes. Comenzamos con 
+el ensamblado con sus extenciones .dll creando mayoritariamente bibliotecas, aprendimos a utilizar los arrays, los loops y las 
+colecciones para almacenar datos. Sobre todo trabajamos en el .NET framework que es un framework de Microsoft que hace un énfasis
+en la transparencia de redes con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones.
+Sobre todo supimos como poder subir y crear nuestros propios repositorios al sitio WEB de GITHUB.
+
+DIFICULTADES:
+
+Como todo comenzando en la programacion, he tenido cierto inconvenientes a la hora de declarar ciertas varibles, a su vez visual estudio
+ha dado sus propios problemas, pero se han resolvido, por lo general la mayoria se me complica, sin embargo se han logrado aprender y finalizar
+los codigo correctamente, y el otra dificultad ha sido el subir mis repositorios y ramas a github, ya sea por errores de gitbash o en los propios
+repositorios de github, o que visual estudio se congele a la hora de actualizar un repositorio, pero sobre todo se han logrado subir de una u otra
+forma.
+

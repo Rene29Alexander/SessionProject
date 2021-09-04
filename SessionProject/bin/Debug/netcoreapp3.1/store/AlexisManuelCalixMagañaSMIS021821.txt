@@ -1,0 +1,9 @@
+Mi aprendizaje en la programación fue la creación de un proyecto tanto en biblioteca como en Consola punto NTF, crear proyectos tipos 
+consolas, la creación de un proyecto dentro de un proyecto, aprendí a como agregar una clase, a compilar, a subir los trabajos a 
+Git Hut aun que me complico bastante poder aprender y a subirlo desde Git Hut o desde el proyecto efectivamente.
+Mis dificultades son en la creación de proyectos ya que cuando me da unos errores me cuesta saber como arreglarlos, saber el por 
+qué, otra dificultad es a la hora de saber por cual código empezar a la creación del proyecto ósea saber el base exacto del proyecto,
+ entender su lógica me dificulta mucho, a la hora de poderlo correr por que en veces lo corre y cuando trato de poderlo ejecutar se 
+cierra la venta y me cuesta encontrar el error.
+Pero a lo poco que había aprendido en el primer ciclo eh aprendido machismo en este primer computo del segundo ciclo y espero seguir 
+así y aprendiendo mas .
