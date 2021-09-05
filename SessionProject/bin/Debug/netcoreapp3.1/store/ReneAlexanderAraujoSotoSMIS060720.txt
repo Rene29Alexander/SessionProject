@@ -1,0 +1,5 @@
+En este computo he aprendido el funcionamiento basico de C# tambien el manejo de git a como subir archivos a dicha plataforma, a 
+crear bibliotecas y a poder manejar archivos .txt las estructuras de repeticion y mucha logica de programacion
+he tenido muchos inconvenientes para realizar las actividades pero viendo de nuevo la videoconferencia
+y buscando en internet he podido satisfacer mis dudas realizando las actividades de la menor manera posible.
+
